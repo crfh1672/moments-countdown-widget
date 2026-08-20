@@ -1,0 +1,8 @@
+# Windows-only project: keep every file byte-for-byte as committed.
+# The .vbs / .cmd distributables carry base64 payloads and BOM-sensitive
+# Hebrew PowerShell sources - git must not touch line endings or encoding.
+* -text
+
+*.png binary
+*.vbs binary
+*.cmd binary

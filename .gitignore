@@ -1,0 +1,17 @@
+# הגדרות ואירועים מקומיים - נוצרים אוטומטית בהרצה ראשונה
+# (מכילים נתונים אישיים: תאריכים, שמות ומיקום החלון)
+config.json
+
+# Runtime diagnostics
+diag.log
+*.log
+
+# Windows shell junk
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor / temp
+*.bak
+*.tmp
+*~

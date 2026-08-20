@@ -1,0 +1,23 @@
+﻿{
+    "settings":  {
+                     "alwaysOnTop":  true,
+                     "showSeconds":  true,
+                     "scale":  1.0,
+                     "opacity":  1.0,
+                     "frameAlpha":  0.92,
+                     "autoStart":  true,
+                     "stayVisible":  true,
+                     "diagLog":  true,
+                     "left":  120.0,
+                     "top":  120.0
+                 },
+    "events":  [
+                   {
+                       "name":  "שם האירוע",
+                       "date":  "2030-01-01T10:00:00",
+                       "theme":  "girl",
+                       "art":  "baby",
+                       "note":  "תאריך משוער"
+                   }
+               ]
+}
